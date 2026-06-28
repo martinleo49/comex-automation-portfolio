@@ -19,6 +19,7 @@ Automated workflow that checks the USD/BRL exchange rate every hour and sends an
 
 ### Workflow
 Schedule Trigger → HTTP Request → IF → Gmail
+<img width="1728" height="734" alt="image" src="https://github.com/user-attachments/assets/209f5bbe-3eca-4551-9b02-7dd56b7c4c4e" />
 
 ### How it works
 1. Schedule Trigger fires every hour
