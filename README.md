@@ -28,4 +28,4 @@ Schedule Trigger → HTTP Request → IF → Gmail
 
 ---
 
-*Built by Leonardo Nobrega — Foreign Trade MBA | International Relations |
+*Built by Leonardo Nobrega — Foreign Trade MBA | International Relations 
